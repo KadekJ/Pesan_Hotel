@@ -1,5 +1,5 @@
 # Pesan_Hotel
-![alt text]https://github.com/KadekJ/Pesan_Hotel/blob/master/log1.PNG()
+![alt text](https://github.com/KadekJ/Pesan_Hotel/blob/master/log1.PNG)
 ![alt text](https://github.com/KadekJ/Pesan_Hotel/blob/master/home1.PNG)
 ![alt text](https://github.com/KadekJ/Pesan_Hotel/blob/master/home2.PNG)
 ![alt text](https://github.com/KadekJ/Pesan_Hotel/blob/master/home3.PNG)
